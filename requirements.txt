@@ -6,4 +6,5 @@ seaborn==0.10.0
 matplotlib
 base58
 pip==22.0.4
+python==3.7.9
 
