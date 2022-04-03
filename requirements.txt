@@ -1,5 +1,5 @@
-
-streamlit==0.61.0
+click<=8.0.4
+streamlit
 pandas
 lxml==4.5.1
 numpy
