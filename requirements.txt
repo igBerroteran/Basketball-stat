@@ -1,5 +1,5 @@
 streamlit
-pandas==1.3.4
+pandas
 lxml
 numpy
 seaborn==0.10.0
