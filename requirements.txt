@@ -1,8 +1,10 @@
 click<=8.0.4
-streamlit
+streamlit==0.84.2
 pandas
 lxml==4.5.1
 numpy
 seaborn==0.10.0
 matplotlib
 base58
+
+
